@@ -1,4 +1,4 @@
-# Survey Form
+# Tribute Page
 
 This is my FreeCodeCamp Responsive Web Design project: a tribute page built with HTML and CSS.
 
